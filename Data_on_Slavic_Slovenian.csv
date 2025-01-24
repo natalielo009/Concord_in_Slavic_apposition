@@ -1,4 +1,4 @@
-﻿City_name;Plural;Neuter;Feminine;freq;NOM;GEN;GEN SUM;GEN % marked;GEN % marked rounded;NOM;DAT;DAT SUM;DAT % marked;DAT % marked rounded;NOM;INS;INS SUM;INS % marked;INS % marked rounded;NOM;LOC;LOC SUM;LOC % marked;LOC % marked rounded
+City_name;Plural;Neuter;Feminine;freq;NOM;GEN;GEN SUM;GEN % marked;GEN % marked rounded;NOM;DAT;DAT SUM;DAT % marked;DAT % marked rounded;NOM;INS;INS SUM;INS % marked;INS % marked rounded;NOM;LOC;LOC SUM;LOC % marked;LOC % marked rounded
 Ljubljana;0;0;1;434,9;688;1289;1977;65,19979767;65;45;3;48;6,25;6;60;33;93;35,48387097;35;251;16;267;5,992509363;6
 Maribor;0;0;0;183,38;971;86;1057;8,136234626;8;34;2;36;5,555555556;6;28;4;32;12,5;13;290;1;291;0,343642612;0
 Celje;0;1;0;115,73;257;179;436;41,05504587;41;9;2;11;18,18181818;18;12;1;13;7,692307692;8;84;27;111;24,32432432;24
@@ -19,7 +19,7 @@ Jesenice;1;0;0;11,62;42;45;87;51,72413793;52;NA;NA;NA;NA;NA;1;0;1;0;0;10;0;10;0;
 Ribnica;0;0;1;11,51;15;2;17;11,76470588;12;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;11;0;11;0;0
 Vrhnika;0;0;1;9,77;6;4;10;40;40;NA;NA;NA;NA;NA;1;1;2;50;50;3;0;3;0;0
 Trbovlje;0;0;0;9,56;22;0;22;0;0;NA;NA;NA;NA;NA;3;0;3;0;0;8;0;8;0;0
-Domžale;0;0;0;7,73;57;0;57;0;0;2;0;2;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Domžale;1;0;0;7,73;57;0;57;0;0;2;0;2;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
 Tolmin;0;0;0;6,44;43;0;43;0;0;1;0;1;0;0;2;0;2;0;0;12;0;12;0;0
 Žalec;0;0;0;5,17;24;0;24;0;0;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;6;0;6;0;0
 Črnomelj;0;0;0;4,34;27;0;27;0;0;NA;NA;NA;NA;NA;1;0;1;0;0;11;0;11;0;0
